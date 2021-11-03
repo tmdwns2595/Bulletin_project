@@ -18,3 +18,10 @@
 - 회원가입
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140101289-23d6c861-a479-46d4-bcd7-c51c3aa60f12.PNG"/>
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140101300-5b0d3c6b-9f54-4959-94b1-de588a750b4e.PNG"/>
+
+- 로그인 
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102061-baa9378c-6a1d-439b-9c92-ca40ed0bc527.PNG"/>
+
+- 게시글 작성
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102061-baa9378c-6a1d-439b-9c92-ca40ed0bc527.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102061-baa9378c-6a1d-439b-9c92-ca40ed0bc527.PNG"/>
