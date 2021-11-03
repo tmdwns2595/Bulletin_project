@@ -31,3 +31,6 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140103312-57e55f58-75b7-4ed3-afd9-ef405e704144.PNG"/>
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140103320-db626324-342b-49d3-a0dd-9ada4a9cd28c.PNG"/>
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140103329-e282352b-2d88-4785-bbb0-53d0eadf3665.PNG"/>
+
+## Citing
+<a href="https://www.ulsan.ac.kr/resources/homepage/story/story.html">울산대학교</a> 홈페이지를 참조하여 개발하였습니다. 
