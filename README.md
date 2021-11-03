@@ -25,3 +25,9 @@
 - 게시글 작성
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140102543-509bdf66-fab4-4beb-bf3c-aba9958bbad8.PNG"/>
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140102547-83d54ccd-e1b2-41f4-b436-3016a5ede766.PNG"/>
+
+- 수정 및 삭제
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140103303-1c611900-ae9d-4fc1-a2d1-296f956c9281.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140103312-57e55f58-75b7-4ed3-afd9-ef405e704144.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140103320-db626324-342b-49d3-a0dd-9ada4a9cd28c.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140103329-e282352b-2d88-4785-bbb0-53d0eadf3665.PNG"/>
