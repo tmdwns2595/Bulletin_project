@@ -23,5 +23,5 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140102061-baa9378c-6a1d-439b-9c92-ca40ed0bc527.PNG"/>
 
 - 게시글 작성
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102061-baa9378c-6a1d-439b-9c92-ca40ed0bc527.PNG"/>
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102061-baa9378c-6a1d-439b-9c92-ca40ed0bc527.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102543-509bdf66-fab4-4beb-bf3c-aba9958bbad8.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140102547-83d54ccd-e1b2-41f4-b436-3016a5ede766.PNG"/>
