@@ -10,4 +10,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 </div>
+
 ## Display
+- 메인 화면
+<img width="30%" src="https://user-images.githubusercontent.com/52947821/140074832-23162117-0e94-42a2-bf27-f1efc9ede280.gif"/>
