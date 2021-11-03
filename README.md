@@ -16,5 +16,5 @@
 <img width="60%" src="https://user-images.githubusercontent.com/52947821/140100221-1c9b025f-7b1b-4065-8ee6-ae4c281b56d1.gif"/>
 
 - 회원가입
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140100221-1c9b025f-7b1b-4065-8ee6-ae4c281b56d1.gif"/>
-<img width="60%" src="https://user-images.githubusercontent.com/52947821/140100221-1c9b025f-7b1b-4065-8ee6-ae4c281b56d1.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140101289-23d6c861-a479-46d4-bcd7-c51c3aa60f12.PNG"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140101300-5b0d3c6b-9f54-4959-94b1-de588a750b4e.PNG"/>
