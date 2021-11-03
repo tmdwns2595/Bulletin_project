@@ -13,4 +13,8 @@
 
 ## Display
 - 메인 화면
-<img width="30%" src="https://user-images.githubusercontent.com/52947821/140074832-23162117-0e94-42a2-bf27-f1efc9ede280.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140100221-1c9b025f-7b1b-4065-8ee6-ae4c281b56d1.gif"/>
+
+- 회원가입
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140100221-1c9b025f-7b1b-4065-8ee6-ae4c281b56d1.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/52947821/140100221-1c9b025f-7b1b-4065-8ee6-ae4c281b56d1.gif"/>
